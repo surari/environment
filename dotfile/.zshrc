@@ -10,6 +10,8 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
   source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 fi
 
+VISUAL=/usr/local/bin/vim
+
 # Customize to your needs...
 
 
